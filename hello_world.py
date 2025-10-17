@@ -1,2 +1,2 @@
 # Hello world in Python
-print("Hello World!")
+print("Hello from feature")
